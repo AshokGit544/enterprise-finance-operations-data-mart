@@ -185,9 +185,6 @@ This project can help answer questions like:
 - KPI mart creation
 - operational reporting
 
-## Suggested Interview Explanation
-
-I built an Enterprise Finance Operations Data Mart project that simulates how finance transaction data is processed in a real enterprise environment. The project starts with raw source transactions, enriches them with vendor, cost center, profit center, and GL account master data, then applies validations for SLA breaches, overdue payments, hold invoices, and master data issues. I created bronze, silver, and gold layers, along with KPI marts, exception queues, vendor scorecards, and department-level operational summaries for reporting use cases.
 
 ## How to Run
 
